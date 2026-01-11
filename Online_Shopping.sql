@@ -71,7 +71,7 @@ select sum(avg_price * quantity) as revenue from file2
 
 -- Ticket Promedio
 
-select Transaction_ID, count(*) from file2 group by Transaction_ID  -- Existen transacciones repetidas. Una sola transaccion puede ser de varios productos.
+select Transaction_ID, count(*) from file2 group by Transaction_ID  -- Existen IDs de transacciones repetidos. Una sola transaccion puede ser de varios productos.
 
 select sum(avg_price * Quantity) / count(distinct(Transaction_ID)) as ticket_promedio from file2 -- Revenue Total / Total de Ventas Únicas
 
