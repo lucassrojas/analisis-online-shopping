@@ -18,7 +18,7 @@ Análisis de los datos crudos de las ventas de un Shopping Online durante todo e
 
 - **Revenue Total de $2.05 Billones**, una cifra impulsada por un modelo de ventas de alto volumen.
 
-- Se confirmó que el **Ticket Promedio** es de **$81.966**, lo que indica transacciones con múltiples unidades por pedido.
+- Se confirmó que el **Ticket Promedio** es de **$81.966**, un valor muy elevado, lo que indica transacciones con múltiples unidades por pedido y un modelo de negocio orientado a la venta mayorista.
 
 - El ingreso está fuertemente concentrado: **Chicago y California generan el 66.7% de las ventas totales**, y existe posibilidad de crecimiento en **New York**. 
 
