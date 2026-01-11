@@ -16,7 +16,7 @@ Análisis de los datos crudos de las ventas de un Shopping Online durante todo e
 
 ## Insights
 
-- **Revenue Total de $2.05 Billones**, una cifra impulsado por un modelo de ventas de alto volumen.
+- **Revenue Total de $2.05 Billones**, una cifra impulsada por un modelo de ventas de alto volumen.
 
 - Se confirmó que el **Ticket Promedio** es de **$81.966**, lo que indica transacciones con múltiples unidades por pedido.
 
