@@ -18,9 +18,9 @@ Análisis de los datos crudos de las ventas de un Shopping Online durante todo e
 
 - **Revenue Total de $2.05 Billones**, una cifra impulsado por un modelo de ventas de alto volumen.
 
-- Se confirmó que el **Ticket Promedio** es de **$81.966**, lo que significa que cada pedido cuenta con múltiples unidades por transacción
+- Se confirmó que el **Ticket Promedio** es de **$81.966**, lo que indica transacciones con múltiples unidades por pedido.
 
-- El ingreso está fuertemente concentrado: **Chicago y California generan el 66.7% de las ventas totales**, y existe posibilidad de crecimiento en New York 
+- El ingreso está fuertemente concentrado: **Chicago y California generan el 66.7% de las ventas totales**, y existe posibilidad de crecimiento en **New York**. 
 
 - **Con $615.48M, Nest-USA** fue la linea de productos mas destacada, superando por más del doble a categorías como Office (productos de oficina) y Drinkware (categoría bebidas).
 
@@ -32,7 +32,7 @@ Análisis de los datos crudos de las ventas de un Shopping Online durante todo e
 
 - Se recomienda realizar campañas focalizadas en **New York**, ya que representa el **18.26%** del revenue total, teniendo un alto potencial de crecimiento. 
 
-- Lanzar promociones exclusivas en febrero, con el fin de moderar el descenso en las ventas respecto a enero.
+- Implementar promociones agresivas en febrero, con el fin de moderar el descenso en las ventas respecto a enero.
 
 - Los clientes de **IDs 153110 y 127480** tuvieron un gran impacto en en el revenue total. Se recomienda priorizar la fidelidad de estos clientes a largo plazo.
 
