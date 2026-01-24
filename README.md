@@ -4,7 +4,7 @@
 
 **Link:** https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset.
 
-Análisis de los datos crudos de las ventas de un Shopping Online durante todo el año 2019, con el objetivo de comprender las tendencias y patrones más importantes de la empresa, tales como el rendimiento de ingresos, tendencias de marcas y comportamiento de los clientes.
+Análisis de los datos crudos de las ventas de un Shopping Online durante todo el año 2019, con el objetivo de comprender las tendencias y patrones más importantes de la empresa, como por ejemplo, el rendimiento de ingresos o el comportamiento de los clientes.
 
 **Herramientas Utilizadas:** SQL y Power BI.
 
@@ -20,7 +20,7 @@ Análisis de los datos crudos de las ventas de un Shopping Online durante todo e
 
 - Se confirmó que el **Ticket Promedio** es de **$81.966**, un valor muy elevado, lo que indica transacciones con múltiples unidades por pedido y un modelo de negocio orientado a la venta mayorista.
 
-- El ingreso está fuertemente concentrado: **Chicago y California generan el 66.7% de las ventas totales**, y existe posibilidad de crecimiento en **New York**. 
+- **Chicago y California generan el 66.7% de las ventas totales**, y existe posibilidad de crecimiento en **New York**. 
 
 - **Con $615.48M, Nest-USA** fue la línea de productos mas destacada, superando por más del doble a categorías como Office (productos de oficina) y Drinkware (categoría bebidas).
 
