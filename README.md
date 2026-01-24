@@ -4,7 +4,7 @@
 
 **Link:** https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset.
 
-Análisis de los datos crudos de las ventas de un Shopping Online durante todo el año 2019, con el objetivo de comprender las tendencias y patrones más importantes de la empresa, como por ejemplo, el rendimiento de ingresos o el comportamiento de los clientes.
+Análisis de los datos crudos de las ventas de un Shopping Online durante todo el año 2019, con el objetivo de comprender las tendencias más importantes de la empresa, como por ejemplo, el rendimiento de ingresos o el comportamiento de los clientes.
 
 **Herramientas Utilizadas:** SQL y Power BI.
 
